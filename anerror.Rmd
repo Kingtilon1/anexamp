@@ -1,0 +1,15 @@
+---
+title: "errorexample"
+output: html_document
+date: "2023-11-25"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+hey <- x+15
+print(hey)
+```
+
